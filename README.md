@@ -5,7 +5,7 @@ All favorites links in one repo
 
 ## FinOps
 
-[src/finops.md](src/finops.md)
+Links dedicated to FinOps topics: [here](src/finops.md)
 
 
 ## Tools
