@@ -8,9 +8,6 @@ All favorites links in one repo
 
 
 ## Tools
-
- https://www.facebook.com/gasteuil.maxime/videos/688983928852790/?flite=scwspnss
- Découvrez cet article : Le top 20 des professions qui gagnent le mieux leur vie dans le privé https://flip.it/k-HL0E depuis Flipboard.
  https://www.tuya.com/
  https://bour.so/6GLgKenFlK ou utiliser mon code parrain ANLO2827 si tu souhaites le faire plus tard depuis le site ou l'application de Boursorama Banque.
  https://youtu.be/_DakEvdZWLk
@@ -290,298 +287,298 @@ All favorites links in one repo
  https://www.docker.com/blog/reduce-your-image-size-with-the-dive-in-docker-extension/
  https://techcommunity.microsoft.com/t5/apps-on-azure-blog/monitoring-kubernetes-clusters-activity-with-azure-managed/ba-p/3715840
 
-	Line 10048:  Antoine Loizeau: https://www.01net.com/actualites/marre-faire-powerpoint-ia-charge-vous.html
-	Line 10054: https://www.lemagit.fr/actualites/252529567/Cliniques-Elsan-LockBit-30-revendique-une-cyberattaque
-	Line 10056: https://tidalcloud.com/subnet-builder/
-	Line 10093:  Antoine Loizeau: https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/apres-la-hausse-de-tarifs-le-passe-navigo-est-il-encore-rentable-pour-se-deplacer-en-ile-de-france-30-01-2023-7WRMCDSJWJAARIRDH6DCQFMMTM.php
-	Line 10151:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-terrafy-import-your-existing-azure-infrastructure-into/ba-p/3357653
-	Line 10180: https://www.lamborghini.com/fr-en/mod%C3%A8les/urus
-	Line 10185: https://www.mercedes-benz.fr/passengercars/mercedes-benz-cars/models/g-class/suv-w463/explore.html
-	Line 10187:  Antoine Loizeau: https://www.mazda.fr/showroom/mazda-cx-60/
-	Line 10188: https://www.mercedes-benz.fr/passengercars/mercedes-benz-cars/models/gle/coupe-c167/explore.html
-	Line 10226: https://www.zdnet.fr/actualites/panne-de-microsoft-365-teams-et-outlook-voici-ce-qui-n-a-pas-fonctionne-39953360.htm
-	Line 10251:  Antoine Loizeau: https://www.dealabs.com/share-deal-from-app/2502746
-	Line 10283:  Antoine Loizeau: https://youtu.be/zI6hCX9Zj1M
-	Line 10284:  Antoine Loizeau: https://www.youtube.com/watch?v=UDmpeumiZ0g&list=PLpbcUe4chE7_-2ahQDLDMOo15ukoS4MAp&index=29
-	Line 10285:  Antoine Loizeau: http://azure.microsoft.com/blog/azure-native-nginxaas-makes-traffic-management-secure-and-simple-now-generally-available/
-	Line 10287: https://www.lesnumeriques.com/voiture/audi-activesphere-un-suv-coupe-electrique-futuriste-qui-se-transforme-en-pick-up-n205745.html
-	Line 10347:  Antoine Loizeau: https://docs.google.com/presentation/d/1EXBFMoJ-efwO_RiLrNQe34k0QzZ-rnfubsW_TvtBZqc/mobilepresent?slide=id.g43aac56bfe_1_0
-	Line 10358: https://youtu.be/oOV81p9tbaM
-	Line 10366: https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subscription
-	Line 10490:  Antoine Loizeau: https://trstringer.com/log-analytics-expensive-part-1-discovery/
-	Line 10502:  Antoine Loizeau: https://github.com/AxaGuilDEv/dailyclean
-	Line 10542:  Julien H: https://ochzhen.com/blog/az-powershell-module-in-azure-functions
-	Line 10570: https://blog.ironmansoftware.com/daily-powershell/powershell-sql-crud/
+https://www.01net.com/actualites/marre-faire-powerpoint-ia-charge-vous.html
+ https://www.lemagit.fr/actualites/252529567/Cliniques-Elsan-LockBit-30-revendique-une-cyberattaque
+ https://tidalcloud.com/subnet-builder/
+https://www.leparisien.fr/info-paris-ile-de-france-oise/transports/apres-la-hausse-de-tarifs-le-passe-navigo-est-il-encore-rentable-pour-se-deplacer-en-ile-de-france-30-01-2023-7WRMCDSJWJAARIRDH6DCQFMMTM.php
+https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-terrafy-import-your-existing-azure-infrastructure-into/ba-p/3357653
+ https://www.lamborghini.com/fr-en/mod%C3%A8les/urus
+ https://www.mercedes-benz.fr/passengercars/mercedes-benz-cars/models/g-class/suv-w463/explore.html
+https://www.mazda.fr/showroom/mazda-cx-60/
+ https://www.mercedes-benz.fr/passengercars/mercedes-benz-cars/models/gle/coupe-c167/explore.html
+ https://www.zdnet.fr/actualites/panne-de-microsoft-365-teams-et-outlook-voici-ce-qui-n-a-pas-fonctionne-39953360.htm
+https://www.dealabs.com/share-deal-from-app/2502746
+https://youtu.be/zI6hCX9Zj1M
+https://www.youtube.com/watch?v=UDmpeumiZ0g&list=PLpbcUe4chE7_-2ahQDLDMOo15ukoS4MAp&index=29
+http://azure.microsoft.com/blog/azure-native-nginxaas-makes-traffic-management-secure-and-simple-now-generally-available/
+ https://www.lesnumeriques.com/voiture/audi-activesphere-un-suv-coupe-electrique-futuriste-qui-se-transforme-en-pick-up-n205745.html
+https://docs.google.com/presentation/d/1EXBFMoJ-efwO_RiLrNQe34k0QzZ-rnfubsW_TvtBZqc/mobilepresent?slide=id.g43aac56bfe_1_0
+ https://youtu.be/oOV81p9tbaM
+ https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/subscription
+https://trstringer.com/log-analytics-expensive-part-1-discovery/
+https://github.com/AxaGuilDEv/dailyclean
+https://ochzhen.com/blog/az-powershell-module-in-azure-functions
+ https://blog.ironmansoftware.com/daily-powershell/powershell-sql-crud/
 
-	Line 10574: https://www.nubo.eu/azure-table-storage-crud-operations-with-Powershell/
-	Line 10584:  Antoine Loizeau: https://www.phonandroid.com/microsoft-chatgpt-debarque-enfin-sur-bing-voici-comment-essayer-le-nouveau-moteur-de-recherche.html
-	Line 10601: https://status.azure.com/fr-fr/status
-	Line 10603:  Antoine Loizeau: https://medium.com/microsoftazure/track-ip-addresses-consumption-with-azure-application-insights-part-2-71243f1f7ddb?source=rss----8bec1183ada9---4
-	Line 10613: https://www.jeuxvideo.com/news/1706566/rtx-4090-sur-pc-portable-msi-lance-sa-toute-nouvelle-gamme-d-ordinateurs-avec-une-promotion-vous-allez-enfin-pouvoir-jouer-en-4k-a-120-fps.htm
-	Line 10708: https://www.linkedin.com/posts/hafiz-talha-a5a319231_ugcPost-7028553420143755264-bBZR?utm_source=share&utm_medium=member_ios
-	Line 10710: https://www.hirensbootcd.org/
-	Line 10714: https://www.hirensbootcd.org/files/HBCD_PE_x64.iso
-	Line 10718: https://www.hirensbootcd.org/usb-booting/
-	Line 10769: https://build5nines.com/terraform-deploy-to-multiple-azure-subscriptions-in-single-project/
+ https://www.nubo.eu/azure-table-storage-crud-operations-with-Powershell/
+https://www.phonandroid.com/microsoft-chatgpt-debarque-enfin-sur-bing-voici-comment-essayer-le-nouveau-moteur-de-recherche.html
+ https://status.azure.com/fr-fr/status
+https://medium.com/microsoftazure/track-ip-addresses-consumption-with-azure-application-insights-part-2-71243f1f7ddb?source=rss----8bec1183ada9---4
+ https://www.jeuxvideo.com/news/1706566/rtx-4090-sur-pc-portable-msi-lance-sa-toute-nouvelle-gamme-d-ordinateurs-avec-une-promotion-vous-allez-enfin-pouvoir-jouer-en-4k-a-120-fps.htm
+ https://www.linkedin.com/posts/hafiz-talha-a5a319231_ugcPost-7028553420143755264-bBZR?utm_source=share&utm_medium=member_ios
+ https://www.hirensbootcd.org/
+ https://www.hirensbootcd.org/files/HBCD_PE_x64.iso
+ https://www.hirensbootcd.org/usb-booting/
+ https://build5nines.com/terraform-deploy-to-multiple-azure-subscriptions-in-single-project/
 
-	Line 10774:  Antoine Loizeau: http://azure.microsoft.com/blog/microsoft-joins-the-finops-foundation/
-	Line 10785:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295
-	Line 10835:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/azure/azure-monitor/usage-estimated-costs
-	Line 10966:  Antoine Loizeau: https://www.it-connect.fr/configuration-bginfo-afficher-des-infos-systemes-sur-le-bureau-de-windows/
-	Line 10978:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/sysinternals/downloads/bginfo
-	Line 10981: https://learn.microsoft.com/en-us/powershell/module/az.compute/set-azvmbginfoextension?view=azps-9.4.0
-	Line 11072:  Antoine Loizeau: https://medium.com/@rahil.khan_65704/terraformer-converting-infrastructure-into-reusable-terraform-code-211828fbd6fa
-	Line 11074:  Antoine Loizeau: https://reespozzi.medium.com/conditional-nested-configuration-blocks-for-terraform-resources-57d8ce372bad
+http://azure.microsoft.com/blog/microsoft-joins-the-finops-foundation/
+https://techcommunity.microsoft.com/t5/azure-architecture-blog/codename-project-bose-calculate-azure-cost-of-an-enterprise-by/ba-p/3741295
+https://learn.microsoft.com/fr-fr/azure/azure-monitor/usage-estimated-costs
+https://www.it-connect.fr/configuration-bginfo-afficher-des-infos-systemes-sur-le-bureau-de-windows/
+https://learn.microsoft.com/fr-fr/sysinternals/downloads/bginfo
+ https://learn.microsoft.com/en-us/powershell/module/az.compute/set-azvmbginfoextension?view=azps-9.4.0
+https://medium.com/@rahil.khan_65704/terraformer-converting-infrastructure-into-reusable-terraform-code-211828fbd6fa
+https://reespozzi.medium.com/conditional-nested-configuration-blocks-for-terraform-resources-57d8ce372bad
 
-	Line 11247:  Antoine Loizeau: https://securecloud.blog/2023/03/01/cheat-sheet-azure-ad-how-application-and-delegated-permissions-are-exposed-in-ms-graph-and-logs/
-	Line 11248:  Antoine Loizeau: https://youtu.be/FlQ17u4NNts
-	Line 11249:  Antoine Loizeau: https://github.com/Azure/caf-terraform-landingzones-accelerator
-	Line 11262:  Antoine Loizeau: https://www.linkedin.com/posts/houssemdellai_learn-aks-network-security-activity-7036713256945602560-Yhyl?utm_source=share&utm_medium=member_android
-	Line 11299:  Antoine Loizeau: https://aws.amazon.com/fr/events/summits/paris/
-	Line 11313: https://journalducoin.com/bitcoin/coup-de-chaud-sur-bitcoin-et-le-marche-crypto-22-milliards-evapores-en-5-mns/
-	Line 11331:  Antoine Loizeau: https://lnkd.in/dm5dGgJu
-	Line 11392: https://www.facebook.com/reel/650853493715854?fs=e&s=7MtrtK
-	Line 11411: https://blog.rexave.net/jeedom-vs-homeassistant/
-	Line 11414:  Antoine Loizeau: https://homey.app/fr-fr/homey-pro/
-	Line 11418:  Antoine Loizeau: https://github.com/A-poc/BlueTeam-Tools
-	Line 11419:  Antoine Loizeau: https://www.tomsguide.fr/google-drive-voici-une-astuce-tres-simple-pour-obtenir-plus-de-stockage-gratuit/
-	Line 11457: https://github.com/microsoft/startstopv2-deployments
-	Line 11459: https://learn.microsoft.com/en-gb/azure/azure-functions/start-stop-vms/overview
-	Line 11473: https://www.lesnumeriques.com/camera-surveillance/guide-achat-quelles-sont-les-meilleures-cameras-de-surveillance-sur-batterie-g159901.html
-	Line 11487:  Antoine Loizeau: https://www.lesnumeriques.com/camera-surveillance/ezviz-hb8-2k-p70895.html
-	Line 11495:  Antoine Loizeau: https://www.channelnews.fr/les-10-certifications-cloud-les-plus-recherchees-122844
-	Line 11496:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/certifications/practice-assessments-for-microsoft-certifications?wt.mc_id=practiceassessmentslaunch_blog_blog_wwl_xcsa#availability
-	Line 11630:  Julien H: https://youtu.be/9J2lzuLNyqo
-	Line 11631:  Julien H: https://youtu.be/0RMUnOLVcF8
-	Line 11635:  Julien H: https://www.dailymotion.com/video/x87jeq
-	Line 11744:  Antoine Loizeau: http://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/
-	Line 11763:  Julien H: https://www.aurevoirmadame.fr/
-
-
+https://securecloud.blog/2023/03/01/cheat-sheet-azure-ad-how-application-and-delegated-permissions-are-exposed-in-ms-graph-and-logs/
+https://youtu.be/FlQ17u4NNts
+https://github.com/Azure/caf-terraform-landingzones-accelerator
+https://www.linkedin.com/posts/houssemdellai_learn-aks-network-security-activity-7036713256945602560-Yhyl?utm_source=share&utm_medium=member_android
+https://aws.amazon.com/fr/events/summits/paris/
+ https://journalducoin.com/bitcoin/coup-de-chaud-sur-bitcoin-et-le-marche-crypto-22-milliards-evapores-en-5-mns/
+https://lnkd.in/dm5dGgJu
+ https://www.facebook.com/reel/650853493715854?fs=e&s=7MtrtK
+ https://blog.rexave.net/jeedom-vs-homeassistant/
+https://homey.app/fr-fr/homey-pro/
+https://github.com/A-poc/BlueTeam-Tools
+https://www.tomsguide.fr/google-drive-voici-une-astuce-tres-simple-pour-obtenir-plus-de-stockage-gratuit/
+ https://github.com/microsoft/startstopv2-deployments
+ https://learn.microsoft.com/en-gb/azure/azure-functions/start-stop-vms/overview
+ https://www.lesnumeriques.com/camera-surveillance/guide-achat-quelles-sont-les-meilleures-cameras-de-surveillance-sur-batterie-g159901.html
+https://www.lesnumeriques.com/camera-surveillance/ezviz-hb8-2k-p70895.html
+https://www.channelnews.fr/les-10-certifications-cloud-les-plus-recherchees-122844
+https://learn.microsoft.com/fr-fr/certifications/practice-assessments-for-microsoft-certifications?wt.mc_id=practiceassessmentslaunch_blog_blog_wwl_xcsa#availability
+https://youtu.be/9J2lzuLNyqo
+https://youtu.be/0RMUnOLVcF8
+https://www.dailymotion.com/video/x87jeq
+http://azure.microsoft.com/blog/chatgpt-is-now-available-in-azure-openai-service/
+https://www.aurevoirmadame.fr/
 
 
 
 
 
-	Line 11834: https://www.frandroid.com/test/1583162_test-tapo-c210-camera-surveillance-entree-de-gamme
-	Line 11836: https://www.lesnumeriques.com/camera-surveillance/imou-versa-p71375/test.html
-	Line 11837:  Antoine Loizeau: https://www.tech2tech.fr/tout-sur-linstallation-domotique-de-ma-maison/
-	Line 11841:  Julien H: ‎Localisation: https://maps.google.com/?q=50.898041,4.482794
-	Line 12013: https://management.azure.com/subscriptions/d765ecff-3be3-4173-b45f-2d9b31d4d7a1/providers/Microsoft.Consumption/usageDetails?$expand=properties%2FmeterDetails&$filter=properties%2FusageStart ge %272023-01-01%27 and properties%2FusageEnd le %272023-01-03%27&$top=1000&api-version=2018-01-31
-	Line 12014: http://vcloud-lab.com/files/documents/2e027121-40fa-4aee-8722-e1c3c10042e7.ps1
-	Line 12020:  Antoine Loizeau: https://www.miroir-mag.fr/tendances/on-a-demande-a-lia-gpt-3-de-nous-donner-7-idees-pour-gagner-des-revenus-passifs-la-reponse-va-vous-inspirer-2/
-	Line 12024:  Antoine Loizeau: https://www.cowcotland.com/news/85781/lg-annonce-aussi-un-mini-ecran-de-16-pouces-tout-pour-le-baroudeur.html
-	Line 12066:  Antoine Loizeau: https://www.presse-citron.net/5-outils-boostes-a-lintelligence-artificielle-qui-vont-bouleverser-votre-quotidien/
-	Line 12094: https://www.objeko.com/economie/voici-comment-faire-une-estimation-du-salaire-auquel-vous-pouvez-pretendre/
 
 
-	Line 12263:  Antoine Loizeau: https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/
-	Line 12264:  Antoine Loizeau: @33678389919 https://medium.com/contino-engineering/becoming-a-finops-certified-practitioner-69c462d7842e
-	Line 12265:  Antoine Loizeau: https://gist.github.com/xgenvn/7cd8850475bd6db28bee6c914ec62453
-	Line 12278:  Antoine Loizeau: https://www.instagram.com/reel/CqGdu15IM_r/?igshid=MDJmNzVkMjY=
-	Line 12384:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132
-	Line 12386:  Antoine Loizeau: https://actu.fr/hauts-de-france/lille_59350/lille-en-rentrant-chez-elle-elle-trouve-un-homme-endormi-sur-son-canape_58222498.html
-	Line 12389:  Antoine Loizeau: https://www.lesechos.fr/industrie-services/services-conseils/le-cabinet-de-conseil-accenture-va-licencier-19000-salaries-1918604?xtor=CS4-6240
-
-	Line 12474:  Antoine Loizeau: https://www.amazon.fr/ASUS-VGA-RTX4090-24GB-ROG-STRIX-RTX4090-24G-G/dp/B0BHD8MTST/ref=sr_1_13?adgrpid=142994365338&hvadid=625021896932&hvdev=c&hvlocphy=9056238&hvnetw=g&hvqmt=e&hvrand=12510684901263070460&hvtargid=kwd-61260000&hydadcr=25047_2632177&keywords=4090&qid=1680016013&refinements=p_85%3A20934937031&rnid=20934936031&rps=1&sr=8-13
-	Line 12487:  Antoine Loizeau: https://wmatthyssen.com/2023/03/17/azure-spring-clean-2023-lets-optimize-your-azure-backup-costsazure-spring-clean-2023/
-	Line 12488:  Antoine Loizeau: https://github.com/julianhayward/azure-mg-sub-governance-reporting
-	Line 12494:  Julien H: https://www.castorama.fr/miroir-led-naos-black-120-cm-mpglass/3700589113906_CAFR.prd
-	Line 12526:  https://www.leboncoin.fr/informatique/2297756484.htm
-
-	Line 12575:  Antoine Loizeau: https://www.tech2tech.fr/animer-votre-fond-decran-windows-grace-a-lively/
-	Line 12634:  Antoine Loizeau: Offre du jour: Mr Potato Head, La Famille Patate, 45 pièces pour Personnaliser la Famille Patate, Jouet pour Enfants, dès 2 Ans https://amzn.eu/d/7vDf53V
-
-	Line 12702: https://courses.morethancertified.com/p/rfp-terraform-azure
-	Line 12763:  Antoine Loizeau: https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194
-
-	Line 12815:  Antoine Loizeau: https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting/releases/tag/v6_major_20220710_1
-	Line 12920:  Antoine Loizeau: https://www.frandroid.com/culture-tech/intelligence-artificielle/1656733_chatgpt-cette-application-non-officielle-sintegre-parfaitement-a-windows
-	Line 12921:  Julien H: https://www.francetvinfo.fr/faits-divers/police/paris-un-ingenieur-de-thales-place-en-garde-a-vue-soupconne-d-avoir-installe-des-cameras-dans-les-toilettes-des-femmes-du-bhv_5753540.html
-	Line 12922:  Antoine Loizeau: https://www.techradar.com/news/samsung-workers-leaked-company-secrets-by-using-chatgpt
-
-	Line 12989: https://hitek.fr/42/desastres-informatiques-support-technique-partie-7_11752
-	Line 13005:  Julien H: https://learn.microsoft.com/fr-fr/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks
-	Line 13023:  Antoine Loizeau: https://github.com/terraform-linters
-	Line 13028:  Antoine Loizeau: https://github.com/terraform-linters/tflint-ruleset-azurerm
-	Line 13030: https://github.com/terraform-linters/tflint-ruleset-azurerm/blob/master/docs/rules/azurerm_automation_account_invalid_sku_name.md
-	Line 13033: https://fr.beincrypto.com/marches/165656/bitcoin-1-million-2023-prediction-plus-que-possible/
-	Line 13037: https://coinjournal.net/fr/ethereum/qu-est-ce-que-ethereum/
-	Line 13041:  Antoine Loizeau: https://www.mi.com/fr/product/xiaomi-pad-5/
-	Line 13044:  Antoine Loizeau: https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.oneplus.com/fr/oneplus-pad&ved=2ahUKEwj73rO28Z_-AhWnTqQEHar_CqoQFnoECAoQAQ&usg=AOvVaw06mmkgPm2GBCFROZuNvOJz
-	Line 13059: https://journalducoin.com/bitcoin/bitcoin-btc-explose-et-franchit-sans-effort-les-30-000/
-	Line 13077: https://learn.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-size-powershell
-	Line 13078:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/azure-paas-blog/calculating-container-level-stats-in-azure-blob-storage/ba-p/3064312
-	Line 13079:  Antoine Loizeau: https://learn.microsoft.com/en-us/azure/storage/blobs/calculate-blob-count-size
-	Line 13081:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/azure-paas-blog/calculate-the-size-capacity-of-storage-account-and-it-services/ba-p/1064046
-
-	Line 13103:  Antoine Loizeau: https://www.samsung.com/fr/audio-devices/soundbar/q930b-black-hw-q930b-zf/
-	Line 13176:  Antoine Loizeau: https://github.com/mivano/azure-cost-cli
-	Line 13196:  Antoine Loizeau: https://www.asus.com/fr/networking-iot-servers/whole-home-mesh-wifi-system/zenwifi-wifi-systems/asus-zenwifi-pro-xt12/
-	Line 13204:  Antoine Loizeau: https://m.fr.aliexpress.com/item/1005004944204189.html?af=59578&cn=3700&cv=4161&dp=eJwzNjcwqDawMjSzMDQzM7Y0tqwxtKoFADUkBSg&aff_fcid=0ca358cdb91c4345b4069f13fefbcd4d-1681663940137-01311-zU3eQvQf&aff_fsk=zU3eQvQf&aff_platform=aaf&sk=zU3eQvQf&aff_trace_key=0ca358cdb91c4345b4069f13fefbcd4d-1681663940137-01311-zU3eQvQf&terminal_id=2fe4edf6f2b7448f8e0c67f99fb00fa4&afSmartRedirect=y
-	Line 13206:  Antoine Loizeau: https://training.cellenza.com/catalogue-formations/formation-finops/
-	Line 13208:  Antoine Loizeau: https://www.instagram.com/p/CplDl5HMc4r/ 🤣
-	Line 13230:  Antoine Loizeau: https://fr.aliexpress.com/item/1005005010789230.html
-	Line 13375:  Antoine Loizeau: https://azure.microsoft.com/blog/4-cloud-cost-optimization-strategies-with-microsoft-azure/
-	Line 13381: https://www.bfmtv.com/crypto/bitcoin/le-bitcoin-passe-sous-les-29-000-dollars-a-la-suite-d-un-enorme-ordre-de-vente-sur-binance_AV-202304200317.html
-	Line 13382:  Antoine Loizeau: https://blog.cloudtrooper.net/2023/04/20/getting-visibility-into-your-azure-traffic-with-nsg-flow-logs/
-
-	Line 13390:  Antoine Loizeau: https://github.com/lukemurraynz/awesome-azure-architecture?s=09
-	Line 13415:  Antoine Loizeau: https://buff.ly/3GTqDln
-	Line 13416:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/azure-networking-blog/monitor-and-troubleshoot-azure-amp-hybrid-networks-with-azure/ba-p/3788158
-	Line 13423:  Antoine Loizeau: https://www.linkedin.com/posts/en-mode-culture-culture-pub_masterclass-comment-tuer-4-concurrents-activity-7055087773011111936-Zgfx?utm_source=share&utm_medium=member_android
-	Line 13467:  Antoine Loizeau: https://azure.github.io/aca-dotnet-workshop/aca/00-workshop-intro/2-scenario-architecture/
-	Line 13568:  Antoine Loizeau: https://www.solutions-numeriques.com/incendie-dans-un-grand-datacenter-parisien-plusieurs-sites-a-larret/?fbclid=IwAR3zJnu_y998rbw2J2sNegvUsULltMa8oM4sw_xSoySwCPCIl1AM8DvelUc
-	Line 13570:  Antoine Loizeau: https://chat.chatbot.sex/chat/
-	Line 13572:  Antoine Loizeau: https://www.01net.com/actualites/chatgpt-faille-permet-acceder-gpt-4-gratuitement.html
-	Line 13576:  Antoine Loizeau: https://www.zdnet.fr/pratique/comment-transformer-n-importe-quelle-photo-de-vacances-en-portrait-pour-votre-cv-39957598.htm#xtor=RSS-1
-	Line 13580: https://www.interprefy.com/fr/
-	Line 13628:  Antoine Loizeau: https://fr.beincrypto.com/marches/170715/premiere-crypto-halal-monde-sera-lancee-mai/ 😅
-	Line 13687:  Julien H: https://youtu.be/7ell8KEbhJo
-
-	Line 13817:  Antoine Loizeau: https://www.linkedin.com/posts/dirane-willy-tafen-254913b5_devops-kubernetes-activity-7057396474711560192-DQQF?utm_source=share&utm_medium=member_android
-
-	Line 13879: https://azure.github.io/azure-service-operator/?WT.mc_id=AZ-MVP-5005062
-	Line 13955:  Antoine Loizeau: https://www.dealabs.com/share-deal-from-app/2552070
-	Line 13956:  Antoine Loizeau: @33678389919 pour ton excel de suivis 😉 https://www.tomsguide.fr/chatgpt-comment-lutiliser-avec-exel-pour-devenir-un-pro-des-formules/
-
-	Line 14001:  Antoine Loizeau: https://medium.com/microsoftazure/reduce-the-cost-of-running-aks-cluster-by-leveraging-azure-spot-vms-70-and-more-e917f568c3b9?source=rss----8bec1183ada9---4
-
-	Line 14044:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/build-reports-faster-with-azure-resource-graph/ba-p/3822085
+ https://www.frandroid.com/test/1583162_test-tapo-c210-camera-surveillance-entree-de-gamme
+ https://www.lesnumeriques.com/camera-surveillance/imou-versa-p71375/test.html
+https://www.tech2tech.fr/tout-sur-linstallation-domotique-de-ma-maison/
+‎Localisation: https://maps.google.com/?q=50.898041,4.482794
+ https://management.azure.com/subscriptions/d765ecff-3be3-4173-b45f-2d9b31d4d7a1/providers/Microsoft.Consumption/usageDetails?$expand=properties%2FmeterDetails&$filter=properties%2FusageStart ge %272023-01-01%27 and properties%2FusageEnd le %272023-01-03%27&$top=1000&api-version=2018-01-31
+ http://vcloud-lab.com/files/documents/2e027121-40fa-4aee-8722-e1c3c10042e7.ps1
+https://www.miroir-mag.fr/tendances/on-a-demande-a-lia-gpt-3-de-nous-donner-7-idees-pour-gagner-des-revenus-passifs-la-reponse-va-vous-inspirer-2/
+https://www.cowcotland.com/news/85781/lg-annonce-aussi-un-mini-ecran-de-16-pouces-tout-pour-le-baroudeur.html
+https://www.presse-citron.net/5-outils-boostes-a-lintelligence-artificielle-qui-vont-bouleverser-votre-quotidien/
+ https://www.objeko.com/economie/voici-comment-faire-une-estimation-du-salaire-auquel-vous-pouvez-pretendre/
 
 
+https://blogs.microsoft.com/blog/2023/03/21/create-images-with-your-words-bing-image-creator-comes-to-the-new-bing/
+@33678389919 https://medium.com/contino-engineering/becoming-a-finops-certified-practitioner-69c462d7842e
+https://gist.github.com/xgenvn/7cd8850475bd6db28bee6c914ec62453
+https://www.instagram.com/reel/CqGdu15IM_r/?igshid=MDJmNzVkMjY=
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/the-azure-finops-guide/ba-p/3704132
+https://actu.fr/hauts-de-france/lille_59350/lille-en-rentrant-chez-elle-elle-trouve-un-homme-endormi-sur-son-canape_58222498.html
+https://www.lesechos.fr/industrie-services/services-conseils/le-cabinet-de-conseil-accenture-va-licencier-19000-salaries-1918604?xtor=CS4-6240
 
-	Line 14176:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/sysinternals-blog/zoomit-v7-0/ba-p/3830183
-	Line 14197:  Antoine Loizeau: http://www.programmez.com/actualites/dev-home-un-nouvel-outil-pour-les-developpeurs-sous-windows-11-35308
-	Line 14198:  Antoine Loizeau: https://azureperiodic.data3.com/
-	Line 14200: https://www.bfmtv.com/tech/ordinateur/spacetop-l-ordinateur-portable-dont-l-ecran-est-virtuel_AV-202305280036.html
-	Line 14266:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/deploy-logic-app-standard-with-terraform-and-azure-devops/ba-p/3807734
-	Line 14275:  Antoine Loizeau: https://azure.microsoft.com/en-us/updates/rualerts-2/
-	Line 14298: https://youtu.be/pxBiFCcCeX8
-	Line 14300:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-and-run-a-azure-openai-chatgpt-application-on-aks/ba-p/3834619
-	Line 14360:  Antoine Loizeau: https://github.com/Azure/azqr
-	Line 14383: https://www.01net.com/actualites/marre-faire-powerpoint-ia-charge-vous.html
-	Line 14494:  Julien H: https://www.macg.co/materiel/2023/06/wwdc-2023-la-nouvelle-vision-pro-dapple-va-vous-faire-casquer-137323
-	Line 14505:  Julien H: https://youtu.be/LPq2ifYCAkE
-	Line 14554: https://www.impots.gouv.fr/particulier/questions/jaide-mes-parents-qui-resident-letranger-puis-je-deduire-une-somme-de-mes#:~:text=2%C2%B0%20du%20Code%20G%C3%A9n%C3%A9ral,ils%20r%C3%A9sident%20%C3%A0%20l'%C3%A9tranger.
-	Line 14599: https://www.leparisien.fr/essonne-91/essonne-deux-fillettes-de-5-et-7-ans-soupconnees-davoir-viole-une-eleve-de-4-ans-a-lecole-06-06-2023-SBSSCSHVFFEDFFIBYLPED3LTCU.php
-	Line 14604:  Antoine Loizeau: https://www.justgeek.fr/microsoft-pc-manager-109230/
-	Line 14627: https://managility.com/automating-analysis-of-azure-resource-consumption-in-power-bi/
-	Line 14629: https://www.lemondeinformatique.fr/actualites/lire-une-erreur-de-typo-bloque-azure-devops-pendant-plusieurs-heures-90613.html
-	Line 14664: https://raw.githubusercontent.com/DaveRuijter/diagrams.net/master/1.%20Azure%20Icon%20Set
-	Line 14667:  Antoine Loizeau: https://azurediagrams.com/ZG8euTsF
-	Line 14669:  Julien H: http://code.benco.io/icon-collection/azure-icons/
-	Line 14672: https://www.moderndata.ai/2020/08/working-with-azure-icons-in-draw-io-diagrams-net/
-	Line 14713:  Julien H: https://youtu.be/n0xJehv5Fag
-	Line 14926: https://www.jeanmarcmorandini.com/article-537909-en-direct-attaque-a-annecy-l-attaquant-est-un-refugie-politique-sans-antecedent-arrive-en-octobre-2022-et-qui-serait-sans-domicile-fixe-aucun-mobile-terroriste-apparent-selon-la-procureure.html
+https://www.amazon.fr/ASUS-VGA-RTX4090-24GB-ROG-STRIX-RTX4090-24G-G/dp/B0BHD8MTST/ref=sr_1_13?adgrpid=142994365338&hvadid=625021896932&hvdev=c&hvlocphy=9056238&hvnetw=g&hvqmt=e&hvrand=12510684901263070460&hvtargid=kwd-61260000&hydadcr=25047_2632177&keywords=4090&qid=1680016013&refinements=p_85%3A20934937031&rnid=20934936031&rps=1&sr=8-13
+https://wmatthyssen.com/2023/03/17/azure-spring-clean-2023-lets-optimize-your-azure-backup-costsazure-spring-clean-2023/
+https://github.com/julianhayward/azure-mg-sub-governance-reporting
+https://www.castorama.fr/miroir-led-naos-black-120-cm-mpglass/3700589113906_CAFR.prd
+  https://www.leboncoin.fr/informatique/2297756484.htm
 
+https://www.tech2tech.fr/animer-votre-fond-decran-windows-grace-a-lively/
+Offre du jour: Mr Potato Head, La Famille Patate, 45 pièces pour Personnaliser la Famille Patate, Jouet pour Enfants, dès 2 Ans https://amzn.eu/d/7vDf53V
 
-	Line 14949:  Antoine Loizeau: https://www.lesnumeriques.com/intelligence-artificielle/chathub-l-extension-qui-permet-d-utiliser-chatgpt-et-presque-tous-ses-concurrents-en-meme-temps-n210427.html
-	Line 14954:  Antoine Loizeau: https://www.it-connect.fr/microsoft-le-portail-azure-est-hors-service-et-il-sagirait-dune-nouvelle-attaque-ddos/
-	Line 14956: https://www.jeuxvideo.com/news/1760532/il-achete-un-nouveau-pc-de-jeu-a-1-000-euros-avec-une-carte-graphique-amd-il-regrette-immediatement-son-achat-lorsqu-il-ouvre-son-paquet.htm
-	Line 15041:  Antoine Loizeau: https://www.geeksforgeeks.org/microsoft-azure-create-resource-group-with-tags-using-powershell/
-	Line 15129:  Antoine Loizeau: https://www.geeksforgeeks.org/microsoft-azure-how-to-a-add-a-tag-policy-for-resource-group/
-	Line 15328:  Julien H: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription
-	Line 15329:  Antoine Loizeau: https://github.com/MicrosoftDocs/azure-docs
-	Line 15331:  Julien H: https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/cost-management-billing/manage/cancel-azure-subscription.md
-	Line 15336:  Antoine Loizeau: https://github.com/MicrosoftDocs/azure-docs/commit/faf006df8a6aa5c8bed9e8a1d7fab724d3914356
-	Line 15337:  Julien H: https://github.com/MicrosoftDocs/azure-docs/commit/09e6a73a60e3c9e892d0421110b2d4c357e4fe3c
-	Line 15365: https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-export-logic-app
-	Line 15377:  Antoine Loizeau: https://learn.microsoft.com/en-us/answers/questions/489716/can-we-have-azure-webapp-and-functionapp-share-sam
-	Line 15467: https://www.vpauto.fr/vehicule/517fdf05b7/land-rover-range-rover-evoque-ed4-dynamic
-	Line 15474:  Antoine Loizeau: https://www.france24.com/fr/plan%C3%A8te/20230615-porte-de-l-enfer-comment-les-fuites-de-m%C3%A9thane-au-turkm%C3%A9nistan-menacent-le-climat
-	Line 15485:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/startups-at-microsoft/how-to-set-up-and-configure-a-gpt-deployment-using-the-azure/ba-p/3849854
-	Line 15486:  Antoine Loizeau: https://medium.com/@willguibr/terraform-1-5-import-and-automatic-code-generation-caa4debfef28
-	Line 15487:  Antoine Loizeau: https://learn.microsoft.com/en-us/azure/container-apps/tutorial-ci-cd-runners-jobs
+ https://courses.morethancertified.com/p/rfp-terraform-azure
+https://lifehacker.com/how-to-use-bing-s-ai-image-generator-to-make-weird-shit-1850279194
 
-	Line 15513: https://learn.microsoft.com/de-de/azure/templates/microsoft.web/staticsites?pivots=deployment-language-terraform
-	Line 15514: https://learn.microsoft.com/fr-fr/azure/templates/microsoft.web/staticsites?pivots=deployment-language-terraform
-	Line 15561:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/azure-openai-gpt-model-to-review-pull-requests-for-azure-devops/ba-p/3851470
-	Line 15569:  Antoine Loizeau: https://squasta.github.io/microsoft_azure_well-architected_framework.html
-	Line 15620:  Antoine Loizeau: https://korben.info/decouvrez-cli-gpt.html
-	Line 15653:  Antoine Loizeau: https://spacelift.io/blog/terraform-depends-on
-	Line 15690:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
-	Line 15699: https://github.com/sairashaik6677/azuresavingsdashboard/blob/main/Azure%20Savings%20Dashboard%20Setup.pdf
-	Line 15785: https://www.zdnet.fr/actualites/apres-le-shadow-it-voici-venu-le-temps-du-shadow-ai-avec-encore-plus-de-problemes-39959822.htm#xtor=RSS-1
-	Line 15788: https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/announcement-introducing-net-framework-custom-code-for-azure/ba-p/3847711
-	Line 15806: https://github.com/microsoft/winget-pkgs/issues/97452
-	Line 15844: https://azure.microsoft.com/mediahandler/files/resourcefiles/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/bringing-finops-to-life-through-organizational-and-cultural-alignment.pdf
-	Line 15851:  Antoine Loizeau: https://blog.smartcloudarchitect.fr/azure-golden-rules-finops
+https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting/releases/tag/v6_major_20220710_1
+https://www.frandroid.com/culture-tech/intelligence-artificielle/1656733_chatgpt-cette-application-non-officielle-sintegre-parfaitement-a-windows
+https://www.francetvinfo.fr/faits-divers/police/paris-un-ingenieur-de-thales-place-en-garde-a-vue-soupconne-d-avoir-installe-des-cameras-dans-les-toilettes-des-femmes-du-bhv_5753540.html
+https://www.techradar.com/news/samsung-workers-leaked-company-secrets-by-using-chatgpt
 
-	Line 15865:  Antoine Loizeau: https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834
-	Line 15870:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unlocking-insights-from-azure-activity-logs-with-power-bi/ba-p/3843116
+ https://hitek.fr/42/desastres-informatiques-support-technique-partie-7_11752
+https://learn.microsoft.com/fr-fr/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks
+https://github.com/terraform-linters
+https://github.com/terraform-linters/tflint-ruleset-azurerm
+ https://github.com/terraform-linters/tflint-ruleset-azurerm/blob/master/docs/rules/azurerm_automation_account_invalid_sku_name.md
+ https://fr.beincrypto.com/marches/165656/bitcoin-1-million-2023-prediction-plus-que-possible/
+ https://coinjournal.net/fr/ethereum/qu-est-ce-que-ethereum/
+https://www.mi.com/fr/product/xiaomi-pad-5/
+https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.oneplus.com/fr/oneplus-pad&ved=2ahUKEwj73rO28Z_-AhWnTqQEHar_CqoQFnoECAoQAQ&usg=AOvVaw06mmkgPm2GBCFROZuNvOJz
+ https://journalducoin.com/bitcoin/bitcoin-btc-explose-et-franchit-sans-effort-les-30-000/
+ https://learn.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-size-powershell
+https://techcommunity.microsoft.com/t5/azure-paas-blog/calculating-container-level-stats-in-azure-blob-storage/ba-p/3064312
+https://learn.microsoft.com/en-us/azure/storage/blobs/calculate-blob-count-size
+https://techcommunity.microsoft.com/t5/azure-paas-blog/calculate-the-size-capacity-of-storage-account-and-it-services/ba-p/1064046
 
-	Line 15972:  Julien H: https://www.amazon.fr/BSI-Pi%C3%A8ge-%C3%A2-Mouche-Professionnel/dp/B00JY9KANU/ref=asc_df_B00JY9KANU/?tag=googshopfr-21&linkCode=df0&hvadid=194947541013&hvpos=&hvnetw=g&hvrand=12175047318715257702&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9055736&hvtargid=pla-83844725846&psc=1
+https://www.samsung.com/fr/audio-devices/soundbar/q930b-black-hw-q930b-zf/
+https://github.com/mivano/azure-cost-cli
+https://www.asus.com/fr/networking-iot-servers/whole-home-mesh-wifi-system/zenwifi-wifi-systems/asus-zenwifi-pro-xt12/
+https://m.fr.aliexpress.com/item/1005004944204189.html?af=59578&cn=3700&cv=4161&dp=eJwzNjcwqDawMjSzMDQzM7Y0tqwxtKoFADUkBSg&aff_fcid=0ca358cdb91c4345b4069f13fefbcd4d-1681663940137-01311-zU3eQvQf&aff_fsk=zU3eQvQf&aff_platform=aaf&sk=zU3eQvQf&aff_trace_key=0ca358cdb91c4345b4069f13fefbcd4d-1681663940137-01311-zU3eQvQf&terminal_id=2fe4edf6f2b7448f8e0c67f99fb00fa4&afSmartRedirect=y
+https://training.cellenza.com/catalogue-formations/formation-finops/
+https://www.instagram.com/p/CplDl5HMc4r/ 🤣
+https://fr.aliexpress.com/item/1005005010789230.html
+https://azure.microsoft.com/blog/4-cloud-cost-optimization-strategies-with-microsoft-azure/
+ https://www.bfmtv.com/crypto/bitcoin/le-bitcoin-passe-sous-les-29-000-dollars-a-la-suite-d-un-enorme-ordre-de-vente-sur-binance_AV-202304200317.html
+https://blog.cloudtrooper.net/2023/04/20/getting-visibility-into-your-azure-traffic-with-nsg-flow-logs/
 
+https://github.com/lukemurraynz/awesome-azure-architecture?s=09
+https://buff.ly/3GTqDln
+https://techcommunity.microsoft.com/t5/azure-networking-blog/monitor-and-troubleshoot-azure-amp-hybrid-networks-with-azure/ba-p/3788158
+https://www.linkedin.com/posts/en-mode-culture-culture-pub_masterclass-comment-tuer-4-concurrents-activity-7055087773011111936-Zgfx?utm_source=share&utm_medium=member_android
+https://azure.github.io/aca-dotnet-workshop/aca/00-workshop-intro/2-scenario-architecture/
+https://www.solutions-numeriques.com/incendie-dans-un-grand-datacenter-parisien-plusieurs-sites-a-larret/?fbclid=IwAR3zJnu_y998rbw2J2sNegvUsULltMa8oM4sw_xSoySwCPCIl1AM8DvelUc
+https://chat.chatbot.sex/chat/
+https://www.01net.com/actualites/chatgpt-faille-permet-acceder-gpt-4-gratuitement.html
+https://www.zdnet.fr/pratique/comment-transformer-n-importe-quelle-photo-de-vacances-en-portrait-pour-votre-cv-39957598.htm#xtor=RSS-1
+ https://www.interprefy.com/fr/
+https://fr.beincrypto.com/marches/170715/premiere-crypto-halal-monde-sera-lancee-mai/ 😅
+https://youtu.be/7ell8KEbhJo
 
-	Line 16098: https://azure.microsoft.com/en-us/blog/how-microsoft-cloud-is-embracing-finops-practitioners/
-	Line 16111:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/azure/advisor/advisor-reference-cost-recommendations
-	Line 16121:  Julien H: https://github.com/microsoft/finops-toolkit
-	Line 16129: https://github.com/microsoft/finops-toolkit/blob/main/src/workbooks/optimization/workbook.json
-	Line 16142: https://github.com/microsoft/finops-toolkit/tree/main/src/templates/finops-hub/reports
-	Line 16147:  Antoine Loizeau: https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-overview
-	Line 16168:  Julien H: Https://github.com/Microsoft/Finops-toolkit/relevasse/tag/v0.0.1
-	Line 16173: https://ordina-jworks.github.io/cloud/2023/06/05/back-to-terraform.html
-	Line 16241:  Antoine Loizeau: https://www.francetvinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/adolescent-de-17-ans-tue-a-nanterre-gerald-darmanin-va-saisir-la-justice-apres-le-tweet-d-un-syndicat-de-police-faisant-l-apologie-de-la-violence_5917226.html
-	Line 16243:  Antoine Loizeau: https://www.liberation.fr/checknews/mort-de-nahel-a-nanterre-polemique-autour-du-casier-judiciaire-de-ladolescent-tue-par-la-police-20230628_YB7EPVLKEBBA3E4I36LGWJYF6Y/?gaa_at=la&gaa_n=AfHvTEvRxjpX2Mdcjdx1AlY-FQ4yXKQ6M0GwsR_ZcRzTMWKzZOgQzRep2QL-jQCSpD8%3D&gaa_ts=649d6c75&utm_source=newsshowcase&utm_medium=discover&utm_campaign=CCwQz5Xl98_V3JMQGOTH-ciDvK26tgEqKAgwEMKJ-c3dvMvSYBjzmcDu05i504gBKg8IACoHCAowh_mcCTDctWw&utm_content=related&gaa_sig=iWyyOCXM_HvTd9VBg-CkAOXuBs9goTD8Bm5Rrsi-L9WZNIS8xgpCR43rnSEOc7ZtAALsJ0U6ygDADi7w596_wA%3D%3D
-	Line 16250: https://t.me/c/1360253345/5592
-	Line 16264:  Antoine Loizeau: https://blog.smartcloudarchitect.fr/azure-alert-lock
+https://www.linkedin.com/posts/dirane-willy-tafen-254913b5_devops-kubernetes-activity-7057396474711560192-DQQF?utm_source=share&utm_medium=member_android
+
+ https://azure.github.io/azure-service-operator/?WT.mc_id=AZ-MVP-5005062
+https://www.dealabs.com/share-deal-from-app/2552070
+@33678389919 pour ton excel de suivis 😉 https://www.tomsguide.fr/chatgpt-comment-lutiliser-avec-exel-pour-devenir-un-pro-des-formules/
+
+https://medium.com/microsoftazure/reduce-the-cost-of-running-aks-cluster-by-leveraging-azure-spot-vms-70-and-more-e917f568c3b9?source=rss----8bec1183ada9---4
+
+https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/build-reports-faster-with-azure-resource-graph/ba-p/3822085
 
 
-	Line 16382:  Antoine Loizeau: https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/actualite-476242-windows-copilot-vous-voulez-essayer-l-ia-consacree-a-windows-maintenant-voici-comment-faire.html
-	Line 16390: https://msit.events.teams.microsoft.com/event/6ce328db-db33-46f4-a76b-e5b0101be533@72f988bf-86f1-41af-91ab-2d7cd011db47
-	Line 16407:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-access-from-github-and-gitlab-pipelines-without-secrets/ba-p/3858885
-	Line 16410: https://www.linkedin.com/pulse/newsletter-juillet-2023-grow-una?utm_source=share&utm_medium=member_android&utm_campaign=share_via
-	Line 16441: https://www.gofundme.com/f/z86fy-soutien-pour-la-famille-du-policier-de-nanterre?utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer
 
-	Line 16524:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/azure/cost-management-billing/manage/programmatically-create-subscription-enterprise-agreement?tabs=rest
-	Line 16527:  Antoine Loizeau: https://github.com/Azure-Samples/create-azure-subscription-dotnet-core
-	Line 16535:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/azure/cost-management-billing/manage/assign-roles-azure-service-principals#permissions-that-can-be-assigned-to-the-spn
-	Line 16538:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/azure/cost-management-billing/manage/assign-roles-azure-service-principals#assign-the-subscription-creator-role-to-the-spn
-	Line 16541:  Julien H: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription
-	Line 16547:  Antoine Loizeau: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/understand-ea-roles
-	Line 16559:  Julien H: https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/understand-mca-roles#subscription-billing-roles-and-tasks.
+https://techcommunity.microsoft.com/t5/sysinternals-blog/zoomit-v7-0/ba-p/3830183
+http://www.programmez.com/actualites/dev-home-un-nouvel-outil-pour-les-developpeurs-sous-windows-11-35308
+https://azureperiodic.data3.com/
+ https://www.bfmtv.com/tech/ordinateur/spacetop-l-ordinateur-portable-dont-l-ecran-est-virtuel_AV-202305280036.html
+https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/deploy-logic-app-standard-with-terraform-and-azure-devops/ba-p/3807734
+https://azure.microsoft.com/en-us/updates/rualerts-2/
+ https://youtu.be/pxBiFCcCeX8
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/deploy-and-run-a-azure-openai-chatgpt-application-on-aks/ba-p/3834619
+https://github.com/Azure/azqr
+ https://www.01net.com/actualites/marre-faire-powerpoint-ia-charge-vous.html
+https://www.macg.co/materiel/2023/06/wwdc-2023-la-nouvelle-vision-pro-dapple-va-vous-faire-casquer-137323
+https://youtu.be/LPq2ifYCAkE
+ https://www.impots.gouv.fr/particulier/questions/jaide-mes-parents-qui-resident-letranger-puis-je-deduire-une-somme-de-mes#:~:text=2%C2%B0%20du%20Code%20G%C3%A9n%C3%A9ral,ils%20r%C3%A9sident%20%C3%A0%20l'%C3%A9tranger.
+ https://www.leparisien.fr/essonne-91/essonne-deux-fillettes-de-5-et-7-ans-soupconnees-davoir-viole-une-eleve-de-4-ans-a-lecole-06-06-2023-SBSSCSHVFFEDFFIBYLPED3LTCU.php
+https://www.justgeek.fr/microsoft-pc-manager-109230/
+ https://managility.com/automating-analysis-of-azure-resource-consumption-in-power-bi/
+ https://www.lemondeinformatique.fr/actualites/lire-une-erreur-de-typo-bloque-azure-devops-pendant-plusieurs-heures-90613.html
+ https://raw.githubusercontent.com/DaveRuijter/diagrams.net/master/1.%20Azure%20Icon%20Set
+https://azurediagrams.com/ZG8euTsF
+http://code.benco.io/icon-collection/azure-icons/
+ https://www.moderndata.ai/2020/08/working-with-azure-icons-in-draw-io-diagrams-net/
+https://youtu.be/n0xJehv5Fag
+ https://www.jeanmarcmorandini.com/article-537909-en-direct-attaque-a-annecy-l-attaquant-est-un-refugie-politique-sans-antecedent-arrive-en-octobre-2022-et-qui-serait-sans-domicile-fixe-aucun-mobile-terroriste-apparent-selon-la-procureure.html
 
-	Line 16673:  Antoine Loizeau: https://www.mercipourlinfo.fr/aides-et-allocations/allocations-familiales-primes-css-decouvrez-toutes-les-aides-de-la-caf-pour-les-familles-830648
-	Line 16708:  Antoine Loizeau: https://www.linkedin.com/posts/lesjoiesducode_enfin-les-vacances-httpslnkdineu2pmxac-activity-7081951142485610496-l1Uo?utm_source=share&utm_medium=member_android
-	Line 16711:  Antoine Loizeau: https://microsoft.thetrainingarcade.com/hub/#/choose-game
-	Line 16712:  Antoine Loizeau: @33678389919 https://www.milanjovanovic.tech/blog/implementing-an-api-gateway-for-microservices-with-yarp
+
+https://www.lesnumeriques.com/intelligence-artificielle/chathub-l-extension-qui-permet-d-utiliser-chatgpt-et-presque-tous-ses-concurrents-en-meme-temps-n210427.html
+https://www.it-connect.fr/microsoft-le-portail-azure-est-hors-service-et-il-sagirait-dune-nouvelle-attaque-ddos/
+ https://www.jeuxvideo.com/news/1760532/il-achete-un-nouveau-pc-de-jeu-a-1-000-euros-avec-une-carte-graphique-amd-il-regrette-immediatement-son-achat-lorsqu-il-ouvre-son-paquet.htm
+https://www.geeksforgeeks.org/microsoft-azure-create-resource-group-with-tags-using-powershell/
+https://www.geeksforgeeks.org/microsoft-azure-how-to-a-add-a-tag-policy-for-resource-group/
+https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/cancel-azure-subscription
+https://github.com/MicrosoftDocs/azure-docs
+https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/cost-management-billing/manage/cancel-azure-subscription.md
+https://github.com/MicrosoftDocs/azure-docs/commit/faf006df8a6aa5c8bed9e8a1d7fab724d3914356
+https://github.com/MicrosoftDocs/azure-docs/commit/09e6a73a60e3c9e892d0421110b2d4c357e4fe3c
+ https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-export-logic-app
+https://learn.microsoft.com/en-us/answers/questions/489716/can-we-have-azure-webapp-and-functionapp-share-sam
+ https://www.vpauto.fr/vehicule/517fdf05b7/land-rover-range-rover-evoque-ed4-dynamic
+https://www.france24.com/fr/plan%C3%A8te/20230615-porte-de-l-enfer-comment-les-fuites-de-m%C3%A9thane-au-turkm%C3%A9nistan-menacent-le-climat
+https://techcommunity.microsoft.com/t5/startups-at-microsoft/how-to-set-up-and-configure-a-gpt-deployment-using-the-azure/ba-p/3849854
+https://medium.com/@willguibr/terraform-1-5-import-and-automatic-code-generation-caa4debfef28
+https://learn.microsoft.com/en-us/azure/container-apps/tutorial-ci-cd-runners-jobs
+
+ https://learn.microsoft.com/de-de/azure/templates/microsoft.web/staticsites?pivots=deployment-language-terraform
+ https://learn.microsoft.com/fr-fr/azure/templates/microsoft.web/staticsites?pivots=deployment-language-terraform
+https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/azure-openai-gpt-model-to-review-pull-requests-for-azure-devops/ba-p/3851470
+https://squasta.github.io/microsoft_azure_well-architected_framework.html
+https://korben.info/decouvrez-cli-gpt.html
+https://spacelift.io/blog/terraform-depends-on
+https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/azure-savings-dashboard/ba-p/3816131
+ https://github.com/sairashaik6677/azuresavingsdashboard/blob/main/Azure%20Savings%20Dashboard%20Setup.pdf
+ https://www.zdnet.fr/actualites/apres-le-shadow-it-voici-venu-le-temps-du-shadow-ai-avec-encore-plus-de-problemes-39959822.htm#xtor=RSS-1
+ https://techcommunity.microsoft.com/t5/integrations-on-azure-blog/announcement-introducing-net-framework-custom-code-for-azure/ba-p/3847711
+ https://github.com/microsoft/winget-pkgs/issues/97452
+ https://azure.microsoft.com/mediahandler/files/resourcefiles/finops-with-azure-bringing-finops-to-life-through-organizational-and-cultural-alignment/bringing-finops-to-life-through-organizational-and-cultural-alignment.pdf
+https://blog.smartcloudarchitect.fr/azure-golden-rules-finops
+
+https://betterprogramming.pub/infracost-terraform-github-actions-automate-cloud-cost-management-a62b329f2834
+https://techcommunity.microsoft.com/t5/core-infrastructure-and-security/unlocking-insights-from-azure-activity-logs-with-power-bi/ba-p/3843116
+
+https://www.amazon.fr/BSI-Pi%C3%A8ge-%C3%A2-Mouche-Professionnel/dp/B00JY9KANU/ref=asc_df_B00JY9KANU/?tag=googshopfr-21&linkCode=df0&hvadid=194947541013&hvpos=&hvnetw=g&hvrand=12175047318715257702&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9055736&hvtargid=pla-83844725846&psc=1
 
 
-	Line 16716:  Antoine Loizeau: https://github.com/shihanng/tfvar
-	Line 16725:  Antoine Loizeau: https://learn.microsoft.com/en-us/azure/partner-solutions/new-relic/new-relic-overview
-	Line 16728:  Antoine Loizeau: https://squaredup.com/azure-devops-dashboards-for-total-oversight/
+ https://azure.microsoft.com/en-us/blog/how-microsoft-cloud-is-embracing-finops-practitioners/
+https://learn.microsoft.com/fr-fr/azure/advisor/advisor-reference-cost-recommendations
+https://github.com/microsoft/finops-toolkit
+ https://github.com/microsoft/finops-toolkit/blob/main/src/workbooks/optimization/workbook.json
+ https://github.com/microsoft/finops-toolkit/tree/main/src/templates/finops-hub/reports
+https://learn.microsoft.com/en-us/power-bi/developer/projects/projects-overview
+Https://github.com/Microsoft/Finops-toolkit/relevasse/tag/v0.0.1
+ https://ordina-jworks.github.io/cloud/2023/06/05/back-to-terraform.html
+https://www.francetvinfo.fr/faits-divers/adolescent-tue-par-un-policier-a-nanterre/adolescent-de-17-ans-tue-a-nanterre-gerald-darmanin-va-saisir-la-justice-apres-le-tweet-d-un-syndicat-de-police-faisant-l-apologie-de-la-violence_5917226.html
+https://www.liberation.fr/checknews/mort-de-nahel-a-nanterre-polemique-autour-du-casier-judiciaire-de-ladolescent-tue-par-la-police-20230628_YB7EPVLKEBBA3E4I36LGWJYF6Y/?gaa_at=la&gaa_n=AfHvTEvRxjpX2Mdcjdx1AlY-FQ4yXKQ6M0GwsR_ZcRzTMWKzZOgQzRep2QL-jQCSpD8%3D&gaa_ts=649d6c75&utm_source=newsshowcase&utm_medium=discover&utm_campaign=CCwQz5Xl98_V3JMQGOTH-ciDvK26tgEqKAgwEMKJ-c3dvMvSYBjzmcDu05i504gBKg8IACoHCAowh_mcCTDctWw&utm_content=related&gaa_sig=iWyyOCXM_HvTd9VBg-CkAOXuBs9goTD8Bm5Rrsi-L9WZNIS8xgpCR43rnSEOc7ZtAALsJ0U6ygDADi7w596_wA%3D%3D
+ https://t.me/c/1360253345/5592
+https://blog.smartcloudarchitect.fr/azure-alert-lock
 
-	Line 16831:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/automate-onboarding-amp-offboarding-tasks-with-microsoft-entra/ba-p/3871801
-	Line 16838:  Antoine Loizeau: https://entra.microsoft.com/
-	Line 16851: https://www.euractiv.fr/section/donnees/news/rgpd-la-commission-europeenne-adopte-un-cadre-de-transfert-de-donnees-avec-les-etats-unis/
-	Line 17027:  Julien H: https://m.20minutes.fr/amp/a/2148499
-	Line 17039:  Antoine Loizeau: https://jakewalsh.co.uk/azure-cross-region-global-load-balancer-demo-environment/
-	Line 17040:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-much-can-you-save-by-using-ssv2/ba-p/3870350
-	Line 17043:  Antoine Loizeau: https://www.thomasmaurer.ch/2023/01/how-to-in-place-upgrade-windows-server-in-microsoft-azure/
-	Line 17209:  Antoine Loizeau: https://azure.microsoft.com/en-us/blog/dev-optimized-cloud-based-workstations-microsoft-dev-box-is-now-generally-available/
-	Line 17222: https://www.footballdatabase.eu/fr/joueur/details/470559-ousmane-toure
-	Line 17261:  Antoine Loizeau: https://blog.cloudtrooper.net/2023/06/28/monitoring-azure-networks-with-alerts/
-	Line 17270: https://teams.microsoft.com/l/meetup-join/19:meeting_Y2UyNzI4NDgtYjdjZi00YjgyLWE1YTgtNjM2ZGQwNjEwYTc5@thread.v2/0?context=%7B%22Tid%22:%22e8ee875b-e9a5-4716-9457-b11fb35ec84f%22,%22Oid%22:%223fc8eb7d-763d-4d6d-8bec-b063d633bfe7%22%7D
-	Line 17282:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-optimization-mindset-drive-business-value-with/ba-p/3880321
-	Line 17283:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/azure-devops-blog/setting-up-aad-policies-in-azure-devops/ba-p/3878358
-	Line 17284:  Julien H: ‎Localisation: https://maps.google.com/?q=48.266792,6.760526
-	Line 17289:  Antoine Loizeau: https://www.phonandroid.com/chatgpt-top-10-des-meilleurs-plugins-qui-vont-vous-simplifier-la-vie.html
-	Line 17290:  Antoine Loizeau: https://korben.info/powerlessshell-execute-scripts-powershell-sans-powershell-exe.html
 
-	Line 17321: https://www.leparisien.fr/jo-paris-2024/si-je-loue-pendant-10-jours-ca-me-fait-7-000-euros-avec-les-jo-2024-ces-proprietaires-visent-le-jackpot-26-07-2023-QWRF7WHWZRDLBFTOBFMHZ7DRWA.php
-	Line 17369:  Antoine Loizeau: https://techcommunity.microsoft.com/t5/azure-architecture-blog/automating-end-to-end-testing-with-playwright-and-azure/ba-p/3883704
-	Line 17377: https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners#differences-between-github-hosted-and-self-hosted-runners
-	Line 17393: https://blog.cloudarchiadvisor.fr/azure-naming-tool
-	Line 17413: https://korben.info/reggy-creer-identites-aleatoires-inscription-rapide.html
-	Line 17414:  Julien H: https://github.com/clemlesne/private-gpt
-	Line 17425:  Antoine Loizeau: https://www.marktechpost.com/2023/07/31/top-40-generative-ai-tools-2023/
-	Line 17428:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/dotnet/maui/what-is-maui
-	Line 17447:  Julien H: https://ionic.io/pwa?utm_term=progressive%20web%20app&utm_campaign=Broad+-+PWAs&utm_source=adwords&utm_medium=ppc&hsa_acc=6109129391&hsa_cam=20069881607&hsa_grp=146498088857&hsa_ad=657161194481&hsa_src=g&hsa_tgt=kwd-299247399748&hsa_kw=progressive%20web%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad=1&gclid=CjwKCAjwt52mBhB5EiwA05YKo-L3IKaenQnsYYgV3m9aio82xxtmEeyreTyE4nOv19qlrVn-Rm8iehoCIF0QAvD_BwE
-	Line 17471: https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-guide-azure-ad-pim-for-groups/ba-p/3886345
-	Line 17472:  Antoine Loizeau: https://learn.microsoft.com/fr-fr/azure/advisor/advisor-cost-optimization-workbook
-	Line 17485:  Julien H: https://1drv.ms/u/s!Akhywdmsfqj_g51WijVdVbdsNCAZIA
-	Line 17497:  Julien H: https://youtu.be/KuGkXGE4eWc
-	Line 17499:  Antoine Loizeau: https://blog.smartcloudarchitect.fr/azure-links
-	Line 17507:  Antoine Loizeau: https://github.com/aloizeau/links/blob/main/README.md
-	Line 17514:  Antoine Loizeau: https://github.com/aloizeau/links/invitations
+https://www.clubic.com/technologies-d-avenir/intelligence-artificielle/actualite-476242-windows-copilot-vous-voulez-essayer-l-ia-consacree-a-windows-maintenant-voici-comment-faire.html
+ https://msit.events.teams.microsoft.com/event/6ce328db-db33-46f4-a76b-e5b0101be533@72f988bf-86f1-41af-91ab-2d7cd011db47
+https://techcommunity.microsoft.com/t5/fasttrack-for-azure/azure-access-from-github-and-gitlab-pipelines-without-secrets/ba-p/3858885
+ https://www.linkedin.com/pulse/newsletter-juillet-2023-grow-una?utm_source=share&utm_medium=member_android&utm_campaign=share_via
+ https://www.gofundme.com/f/z86fy-soutien-pour-la-famille-du-policier-de-nanterre?utm_campaign=p_cp+share-sheet&utm_medium=copy_link_all&utm_source=customer
+
+https://learn.microsoft.com/fr-fr/azure/cost-management-billing/manage/programmatically-create-subscription-enterprise-agreement?tabs=rest
+https://github.com/Azure-Samples/create-azure-subscription-dotnet-core
+https://learn.microsoft.com/fr-fr/azure/cost-management-billing/manage/assign-roles-azure-service-principals#permissions-that-can-be-assigned-to-the-spn
+https://learn.microsoft.com/fr-fr/azure/cost-management-billing/manage/assign-roles-azure-service-principals#assign-the-subscription-creator-role-to-the-spn
+https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription
+https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/understand-ea-roles
+https://learn.microsoft.com/en-us/azure/cost-management-billing/manage/understand-mca-roles#subscription-billing-roles-and-tasks.
+
+https://www.mercipourlinfo.fr/aides-et-allocations/allocations-familiales-primes-css-decouvrez-toutes-les-aides-de-la-caf-pour-les-familles-830648
+https://www.linkedin.com/posts/lesjoiesducode_enfin-les-vacances-httpslnkdineu2pmxac-activity-7081951142485610496-l1Uo?utm_source=share&utm_medium=member_android
+https://microsoft.thetrainingarcade.com/hub/#/choose-game
+@33678389919 https://www.milanjovanovic.tech/blog/implementing-an-api-gateway-for-microservices-with-yarp
+
+
+https://github.com/shihanng/tfvar
+https://learn.microsoft.com/en-us/azure/partner-solutions/new-relic/new-relic-overview
+https://squaredup.com/azure-devops-dashboards-for-total-oversight/
+
+https://techcommunity.microsoft.com/t5/microsoft-mechanics-blog/automate-onboarding-amp-offboarding-tasks-with-microsoft-entra/ba-p/3871801
+https://entra.microsoft.com/
+ https://www.euractiv.fr/section/donnees/news/rgpd-la-commission-europeenne-adopte-un-cadre-de-transfert-de-donnees-avec-les-etats-unis/
+https://m.20minutes.fr/amp/a/2148499
+https://jakewalsh.co.uk/azure-cross-region-global-load-balancer-demo-environment/
+https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-much-can-you-save-by-using-ssv2/ba-p/3870350
+https://www.thomasmaurer.ch/2023/01/how-to-in-place-upgrade-windows-server-in-microsoft-azure/
+https://azure.microsoft.com/en-us/blog/dev-optimized-cloud-based-workstations-microsoft-dev-box-is-now-generally-available/
+ https://www.footballdatabase.eu/fr/joueur/details/470559-ousmane-toure
+https://blog.cloudtrooper.net/2023/06/28/monitoring-azure-networks-with-alerts/
+ https://teams.microsoft.com/l/meetup-join/19:meeting_Y2UyNzI4NDgtYjdjZi00YjgyLWE1YTgtNjM2ZGQwNjEwYTc5@thread.v2/0?context=%7B%22Tid%22:%22e8ee875b-e9a5-4716-9457-b11fb35ec84f%22,%22Oid%22:%223fc8eb7d-763d-4d6d-8bec-b063d633bfe7%22%7D
+https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-optimization-mindset-drive-business-value-with/ba-p/3880321
+https://techcommunity.microsoft.com/t5/azure-devops-blog/setting-up-aad-policies-in-azure-devops/ba-p/3878358
+‎Localisation: https://maps.google.com/?q=48.266792,6.760526
+https://www.phonandroid.com/chatgpt-top-10-des-meilleurs-plugins-qui-vont-vous-simplifier-la-vie.html
+https://korben.info/powerlessshell-execute-scripts-powershell-sans-powershell-exe.html
+
+ https://www.leparisien.fr/jo-paris-2024/si-je-loue-pendant-10-jours-ca-me-fait-7-000-euros-avec-les-jo-2024-ces-proprietaires-visent-le-jackpot-26-07-2023-QWRF7WHWZRDLBFTOBFMHZ7DRWA.php
+https://techcommunity.microsoft.com/t5/azure-architecture-blog/automating-end-to-end-testing-with-playwright-and-azure/ba-p/3883704
+ https://docs.github.com/en/actions/hosting-your-own-runners/managing-self-hosted-runners/about-self-hosted-runners#differences-between-github-hosted-and-self-hosted-runners
+ https://blog.cloudarchiadvisor.fr/azure-naming-tool
+ https://korben.info/reggy-creer-identites-aleatoires-inscription-rapide.html
+https://github.com/clemlesne/private-gpt
+https://www.marktechpost.com/2023/07/31/top-40-generative-ai-tools-2023/
+https://learn.microsoft.com/fr-fr/dotnet/maui/what-is-maui
+https://ionic.io/pwa?utm_term=progressive%20web%20app&utm_campaign=Broad+-+PWAs&utm_source=adwords&utm_medium=ppc&hsa_acc=6109129391&hsa_cam=20069881607&hsa_grp=146498088857&hsa_ad=657161194481&hsa_src=g&hsa_tgt=kwd-299247399748&hsa_kw=progressive%20web%20app&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad=1&gclid=CjwKCAjwt52mBhB5EiwA05YKo-L3IKaenQnsYYgV3m9aio82xxtmEeyreTyE4nOv19qlrVn-Rm8iehoCIF0QAvD_BwE
+ https://techcommunity.microsoft.com/t5/itops-talk-blog/step-by-step-guide-azure-ad-pim-for-groups/ba-p/3886345
+https://learn.microsoft.com/fr-fr/azure/advisor/advisor-cost-optimization-workbook
+https://1drv.ms/u/s!Akhywdmsfqj_g51WijVdVbdsNCAZIA
+https://youtu.be/KuGkXGE4eWc
+https://blog.smartcloudarchitect.fr/azure-links
+https://github.com/aloizeau/links/blob/main/README.md
+https://github.com/aloizeau/links/invitations
