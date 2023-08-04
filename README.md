@@ -3,6 +3,9 @@ All favorites links in one repo
 
 ## Architecture
 
+## FinOps
+
+
 
 ## Tools
 
