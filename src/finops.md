@@ -1,5 +1,9 @@
 ## FinOps Topics
 
+### Guidelines
+
+- [The Azure FinOps Guide](https://github.com/dolevshor/azure-finops-guide)
+
 ### Costs Follow Up
 
 - [Copilot + Microsoft Cost Management](https://youtu.be/KuGkXGE4eWc) (lien youtube)
